@@ -1,8 +1,0 @@
-entropy:  14.29 
-sum scores:  -173.2 
-sum scores + entropy:  -158.9 
-averaging:  -154.5 
-bayesian:  -173.2 
-generate bounds graphic:  bn train:  -197.8  bn test:  -184.9  finalTest:  -158.9 
-ymin:  -224.3  ymax:  -148 
-
