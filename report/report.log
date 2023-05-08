@@ -1,0 +1,2267 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.4.20)  8 MAY 2023 11:05
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-12-17>
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Class scrartcl Info: File `scrsize11pt.clo' used instead of
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 236
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2022/10/12 v3.38 KOMA-Script font size class option (11pt
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count185
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1767.
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4994.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4994.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 5002.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 5012.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 5012.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 5022.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 5022.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 5033.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 5033.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 5043.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 5043.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6211.
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count192
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6227.
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count193
+Class scrartcl Info: Redefining `\numberline' on input line 6397.
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip63
+\multirow@cntb=\count197
+\multirow@dima=\skip64
+\bigstrutjot=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen148
+\stockheight=\dimen149
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+)
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+Package scrbase Info: activating english \abstractname on input line 19.
+Package scrbase Info: activating english \partname on input line 19.
+Package scrbase Info: activating english \figurename on input line 19.
+Package scrbase Info: activating english \tablename on input line 19.
+Package scrbase Info: activating english \contentsname on input line 19.
+Package scrbase Info: activating english \listfigurename on input line 19.
+Package scrbase Info: activating english \listtablename on input line 19.
+Package scrbase Info: activating english \refname on input line 19.
+Package scrbase Info: activating english \indexname on input line 19.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.7645pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=59.7508pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen152
+\scratchbox=\box54
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen153
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 68.
+<./figs/asia/v1/10/boundsEvolution-107.pdf, id=1, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/10/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/10/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/10/boundsEvolution-107.pdf  used on inp
+ut line 69.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/20/boundsEvolution-107.pdf, id=2, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/20/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/20/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/20/boundsEvolution-107.pdf  used on inp
+ut line 70.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/30/boundsEvolution-107.pdf, id=3, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/30/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/30/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/30/boundsEvolution-107.pdf  used on inp
+ut line 71.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/40/boundsEvolution-107.pdf, id=4, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/40/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/40/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/40/boundsEvolution-107.pdf  used on inp
+ut line 72.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/asia/v1/10/avgBoundsEvolution-107.pdf, id=5, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/10/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/10/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/10/avgBoundsEvolution-107.pdf  used on 
+input line 79.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/20/avgBoundsEvolution-107.pdf, id=6, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/20/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/20/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/20/avgBoundsEvolution-107.pdf  used on 
+input line 80.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/30/avgBoundsEvolution-107.pdf, id=7, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/30/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/30/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/30/avgBoundsEvolution-107.pdf  used on 
+input line 81.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/40/avgBoundsEvolution-107.pdf, id=8, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/40/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/40/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/40/avgBoundsEvolution-107.pdf  used on 
+input line 82.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/asia/v1/10/bayBoundsEvolution-107.pdf, id=9, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/10/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/10/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/10/bayBoundsEvolution-107.pdf  used on 
+input line 89.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/20/bayBoundsEvolution-107.pdf, id=10, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/20/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/20/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/20/bayBoundsEvolution-107.pdf  used on 
+input line 90.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/30/bayBoundsEvolution-107.pdf, id=11, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/30/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/30/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/30/bayBoundsEvolution-107.pdf  used on 
+input line 91.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v1/40/bayBoundsEvolution-107.pdf, id=12, 505.89pt x 505.89pt>
+File: ./figs/asia/v1/40/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v1/40/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v1/40/bayBoundsEvolution-107.pdf  used on 
+input line 92.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./figs/a
+sia/v1/10/boundsEvolution-107.pdf> <./figs/asia/v1/20/boundsEvolution-107.pdf> 
+<./figs/asia/v1/30/boundsEvolution-107.pdf> <./figs/asia/v1/40/boundsEvolution-
+107.pdf>] [3 <./figs/asia/v1/10/avgBoundsEvolution-107.pdf> <./figs/asia/v1/20/
+avgBoundsEvolution-107.pdf> <./figs/asia/v1/30/avgBoundsEvolution-107.pdf> <./f
+igs/asia/v1/40/avgBoundsEvolution-107.pdf>] [4 <./figs/asia/v1/10/bayBoundsEvol
+ution-107.pdf> <./figs/asia/v1/20/bayBoundsEvolution-107.pdf> <./figs/asia/v1/3
+0/bayBoundsEvolution-107.pdf> <./figs/asia/v1/40/bayBoundsEvolution-107.pdf>]
+<./figs/asia/v2/10/boundsEvolution-107.pdf, id=95, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/10/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/10/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/10/boundsEvolution-107.pdf  used on inp
+ut line 103.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/20/boundsEvolution-107.pdf, id=96, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/20/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/20/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/20/boundsEvolution-107.pdf  used on inp
+ut line 104.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/30/boundsEvolution-107.pdf, id=97, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/30/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/30/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/30/boundsEvolution-107.pdf  used on inp
+ut line 105.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/40/boundsEvolution-107.pdf, id=98, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/40/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/40/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/40/boundsEvolution-107.pdf  used on inp
+ut line 106.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/10/avgBoundsEvolution-107.pdf, id=99, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/10/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/10/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/10/avgBoundsEvolution-107.pdf  used on 
+input line 113.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/20/avgBoundsEvolution-107.pdf, id=100, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/20/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/20/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/20/avgBoundsEvolution-107.pdf  used on 
+input line 114.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/30/avgBoundsEvolution-107.pdf, id=101, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/30/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/30/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/30/avgBoundsEvolution-107.pdf  used on 
+input line 115.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/40/avgBoundsEvolution-107.pdf, id=102, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/40/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/40/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/40/avgBoundsEvolution-107.pdf  used on 
+input line 116.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/asia/v2/10/bayBoundsEvolution-107.pdf, id=103, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/10/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/10/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/10/bayBoundsEvolution-107.pdf  used on 
+input line 123.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/20/bayBoundsEvolution-107.pdf, id=104, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/20/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/20/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/20/bayBoundsEvolution-107.pdf  used on 
+input line 124.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/30/bayBoundsEvolution-107.pdf, id=105, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/30/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/30/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/30/bayBoundsEvolution-107.pdf  used on 
+input line 125.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v2/40/bayBoundsEvolution-107.pdf, id=106, 505.89pt x 505.89pt>
+File: ./figs/asia/v2/40/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v2/40/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v2/40/bayBoundsEvolution-107.pdf  used on 
+input line 126.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5
+
+ <./figs/asia/v2/10/boundsEvolution-107.pdf> <./figs/asia/v2/20/boundsEvolution
+-107.pdf> <./figs/asia/v2/30/boundsEvolution-107.pdf> <./figs/asia/v2/40/bounds
+Evolution-107.pdf>] [6 <./figs/asia/v2/10/avgBoundsEvolution-107.pdf> <./figs/a
+sia/v2/20/avgBoundsEvolution-107.pdf> <./figs/asia/v2/30/avgBoundsEvolution-107
+.pdf> <./figs/asia/v2/40/avgBoundsEvolution-107.pdf>] [7 <./figs/asia/v2/10/bay
+BoundsEvolution-107.pdf> <./figs/asia/v2/20/bayBoundsEvolution-107.pdf> <./figs
+/asia/v2/30/bayBoundsEvolution-107.pdf> <./figs/asia/v2/40/bayBoundsEvolution-1
+07.pdf>]
+<./figs/asia/v3/10/boundsEvolution-107.pdf, id=178, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/10/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/10/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/10/boundsEvolution-107.pdf  used on inp
+ut line 137.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/20/boundsEvolution-107.pdf, id=179, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/20/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/20/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/20/boundsEvolution-107.pdf  used on inp
+ut line 138.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/30/boundsEvolution-107.pdf, id=180, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/30/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/30/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/30/boundsEvolution-107.pdf  used on inp
+ut line 139.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/40/boundsEvolution-107.pdf, id=181, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/40/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/40/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/40/boundsEvolution-107.pdf  used on inp
+ut line 140.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/10/avgBoundsEvolution-107.pdf, id=182, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/10/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/10/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/10/avgBoundsEvolution-107.pdf  used on 
+input line 147.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/20/avgBoundsEvolution-107.pdf, id=183, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/20/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/20/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/20/avgBoundsEvolution-107.pdf  used on 
+input line 148.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/30/avgBoundsEvolution-107.pdf, id=184, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/30/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/30/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/30/avgBoundsEvolution-107.pdf  used on 
+input line 149.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/40/avgBoundsEvolution-107.pdf, id=185, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/40/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/40/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/40/avgBoundsEvolution-107.pdf  used on 
+input line 150.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/asia/v3/10/bayBoundsEvolution-107.pdf, id=186, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/10/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/10/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/10/bayBoundsEvolution-107.pdf  used on 
+input line 157.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/20/bayBoundsEvolution-107.pdf, id=187, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/20/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/20/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/20/bayBoundsEvolution-107.pdf  used on 
+input line 158.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/30/bayBoundsEvolution-107.pdf, id=188, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/30/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/30/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/30/bayBoundsEvolution-107.pdf  used on 
+input line 159.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v3/40/bayBoundsEvolution-107.pdf, id=189, 505.89pt x 505.89pt>
+File: ./figs/asia/v3/40/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v3/40/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v3/40/bayBoundsEvolution-107.pdf  used on 
+input line 160.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8
+
+ <./figs/asia/v3/10/boundsEvolution-107.pdf> <./figs/asia/v3/20/boundsEvolution
+-107.pdf> <./figs/asia/v3/30/boundsEvolution-107.pdf> <./figs/asia/v3/40/bounds
+Evolution-107.pdf>] [9 <./figs/asia/v3/10/avgBoundsEvolution-107.pdf> <./figs/a
+sia/v3/20/avgBoundsEvolution-107.pdf> <./figs/asia/v3/30/avgBoundsEvolution-107
+.pdf> <./figs/asia/v3/40/avgBoundsEvolution-107.pdf>] [10 <./figs/asia/v3/10/ba
+yBoundsEvolution-107.pdf> <./figs/asia/v3/20/bayBoundsEvolution-107.pdf> <./fig
+s/asia/v3/30/bayBoundsEvolution-107.pdf> <./figs/asia/v3/40/bayBoundsEvolution-
+107.pdf>]
+<./figs/asia/v4/10/boundsEvolution-107.pdf, id=259, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/10/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/10/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/10/boundsEvolution-107.pdf  used on inp
+ut line 171.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/20/boundsEvolution-107.pdf, id=260, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/20/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/20/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/20/boundsEvolution-107.pdf  used on inp
+ut line 172.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/30/boundsEvolution-107.pdf, id=261, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/30/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/30/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/30/boundsEvolution-107.pdf  used on inp
+ut line 173.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/40/boundsEvolution-107.pdf, id=262, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/40/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/40/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/40/boundsEvolution-107.pdf  used on inp
+ut line 174.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/10/avgBoundsEvolution-107.pdf, id=263, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/10/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/10/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/10/avgBoundsEvolution-107.pdf  used on 
+input line 181.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/20/avgBoundsEvolution-107.pdf, id=264, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/20/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/20/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/20/avgBoundsEvolution-107.pdf  used on 
+input line 182.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/30/avgBoundsEvolution-107.pdf, id=265, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/30/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/30/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/30/avgBoundsEvolution-107.pdf  used on 
+input line 183.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/40/avgBoundsEvolution-107.pdf, id=266, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/40/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/40/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/40/avgBoundsEvolution-107.pdf  used on 
+input line 184.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/asia/v4/10/bayBoundsEvolution-107.pdf, id=267, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/10/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/10/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/10/bayBoundsEvolution-107.pdf  used on 
+input line 191.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/20/bayBoundsEvolution-107.pdf, id=268, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/20/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/20/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/20/bayBoundsEvolution-107.pdf  used on 
+input line 192.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/30/bayBoundsEvolution-107.pdf, id=269, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/30/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/30/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/30/bayBoundsEvolution-107.pdf  used on 
+input line 193.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v4/40/bayBoundsEvolution-107.pdf, id=270, 505.89pt x 505.89pt>
+File: ./figs/asia/v4/40/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v4/40/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v4/40/bayBoundsEvolution-107.pdf  used on 
+input line 194.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11
+
+ <./figs/asia/v4/10/boundsEvolution-107.pdf> <./figs/asia/v4/20/boundsEvolution
+-107.pdf> <./figs/asia/v4/30/boundsEvolution-107.pdf> <./figs/asia/v4/40/bounds
+Evolution-107.pdf>] [12 <./figs/asia/v4/10/avgBoundsEvolution-107.pdf> <./figs/
+asia/v4/20/avgBoundsEvolution-107.pdf> <./figs/asia/v4/30/avgBoundsEvolution-10
+7.pdf> <./figs/asia/v4/40/avgBoundsEvolution-107.pdf>] [13 <./figs/asia/v4/10/b
+ayBoundsEvolution-107.pdf> <./figs/asia/v4/20/bayBoundsEvolution-107.pdf> <./fi
+gs/asia/v4/30/bayBoundsEvolution-107.pdf> <./figs/asia/v4/40/bayBoundsEvolution
+-107.pdf>]
+<./figs/asia/v5/10/boundsEvolution-107.pdf, id=342, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/10/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/10/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/10/boundsEvolution-107.pdf  used on inp
+ut line 205.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/20/boundsEvolution-107.pdf, id=343, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/20/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/20/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/20/boundsEvolution-107.pdf  used on inp
+ut line 206.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/30/boundsEvolution-107.pdf, id=344, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/30/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/30/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/30/boundsEvolution-107.pdf  used on inp
+ut line 207.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/40/boundsEvolution-107.pdf, id=345, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/40/boundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/40/boundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/40/boundsEvolution-107.pdf  used on inp
+ut line 208.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/10/avgBoundsEvolution-107.pdf, id=346, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/10/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/10/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/10/avgBoundsEvolution-107.pdf  used on 
+input line 215.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/20/avgBoundsEvolution-107.pdf, id=347, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/20/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/20/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/20/avgBoundsEvolution-107.pdf  used on 
+input line 216.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/30/avgBoundsEvolution-107.pdf, id=348, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/30/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/30/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/30/avgBoundsEvolution-107.pdf  used on 
+input line 217.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/40/avgBoundsEvolution-107.pdf, id=349, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/40/avgBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/40/avgBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/40/avgBoundsEvolution-107.pdf  used on 
+input line 218.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/asia/v5/10/bayBoundsEvolution-107.pdf, id=350, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/10/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/10/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/10/bayBoundsEvolution-107.pdf  used on 
+input line 225.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/20/bayBoundsEvolution-107.pdf, id=351, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/20/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/20/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/20/bayBoundsEvolution-107.pdf  used on 
+input line 226.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/30/bayBoundsEvolution-107.pdf, id=352, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/30/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/30/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/30/bayBoundsEvolution-107.pdf  used on 
+input line 227.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/asia/v5/40/bayBoundsEvolution-107.pdf, id=353, 505.89pt x 505.89pt>
+File: ./figs/asia/v5/40/bayBoundsEvolution-107.pdf Graphic file (type pdf)
+<use ./figs/asia/v5/40/bayBoundsEvolution-107.pdf>
+Package pdftex.def Info: ./figs/asia/v5/40/bayBoundsEvolution-107.pdf  used on 
+input line 228.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14
+
+ <./figs/asia/v5/10/boundsEvolution-107.pdf> <./figs/asia/v5/20/boundsEvolution
+-107.pdf> <./figs/asia/v5/30/boundsEvolution-107.pdf> <./figs/asia/v5/40/bounds
+Evolution-107.pdf>] [15 <./figs/asia/v5/10/avgBoundsEvolution-107.pdf> <./figs/
+asia/v5/20/avgBoundsEvolution-107.pdf> <./figs/asia/v5/30/avgBoundsEvolution-10
+7.pdf> <./figs/asia/v5/40/avgBoundsEvolution-107.pdf>] [16 <./figs/asia/v5/10/b
+ayBoundsEvolution-107.pdf> <./figs/asia/v5/20/bayBoundsEvolution-107.pdf> <./fi
+gs/asia/v5/30/bayBoundsEvolution-107.pdf> <./figs/asia/v5/40/bayBoundsEvolution
+-107.pdf>]
+<./figs/alarm/v1/30/boundsEvolution-3502.pdf, id=423, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/30/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/30/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/30/boundsEvolution-3502.pdf  used on i
+nput line 277.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/50/boundsEvolution-3502.pdf, id=424, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/50/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/50/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/50/boundsEvolution-3502.pdf  used on i
+nput line 278.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/70/boundsEvolution-3502.pdf, id=425, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/70/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/70/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/70/boundsEvolution-3502.pdf  used on i
+nput line 279.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/90/boundsEvolution-3502.pdf, id=426, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/90/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/90/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/90/boundsEvolution-3502.pdf  used on i
+nput line 280.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/alarm/v1/30/avgBoundsEvolution-3502.pdf, id=427, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/30/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/30/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/30/avgBoundsEvolution-3502.pdf  used o
+n input line 287.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/50/avgBoundsEvolution-3502.pdf, id=428, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/50/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/50/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/50/avgBoundsEvolution-3502.pdf  used o
+n input line 288.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/70/avgBoundsEvolution-3502.pdf, id=429, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/70/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/70/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/70/avgBoundsEvolution-3502.pdf  used o
+n input line 289.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/90/avgBoundsEvolution-3502.pdf, id=430, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/90/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/90/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/90/avgBoundsEvolution-3502.pdf  used o
+n input line 290.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/alarm/v1/30/bayBoundsEvolution-3502.pdf, id=431, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/30/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/30/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/30/bayBoundsEvolution-3502.pdf  used o
+n input line 297.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/50/bayBoundsEvolution-3502.pdf, id=432, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/50/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/50/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/50/bayBoundsEvolution-3502.pdf  used o
+n input line 298.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/70/bayBoundsEvolution-3502.pdf, id=433, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/70/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/70/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/70/bayBoundsEvolution-3502.pdf  used o
+n input line 299.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v1/90/bayBoundsEvolution-3502.pdf, id=434, 505.89pt x 505.89pt>
+File: ./figs/alarm/v1/90/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v1/90/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v1/90/bayBoundsEvolution-3502.pdf  used o
+n input line 300.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17
+
+] [18 <./figs/alarm/v1/30/boundsEvolution-3502.pdf> <./figs/alarm/v1/50/boundsE
+volution-3502.pdf> <./figs/alarm/v1/70/boundsEvolution-3502.pdf> <./figs/alarm/
+v1/90/boundsEvolution-3502.pdf>] [19 <./figs/alarm/v1/30/avgBoundsEvolution-350
+2.pdf> <./figs/alarm/v1/50/avgBoundsEvolution-3502.pdf> <./figs/alarm/v1/70/avg
+BoundsEvolution-3502.pdf> <./figs/alarm/v1/90/avgBoundsEvolution-3502.pdf>]
+[20 <./figs/alarm/v1/30/bayBoundsEvolution-3502.pdf> <./figs/alarm/v1/50/bayBou
+ndsEvolution-3502.pdf> <./figs/alarm/v1/70/bayBoundsEvolution-3502.pdf> <./figs
+/alarm/v1/90/bayBoundsEvolution-3502.pdf>]
+<./figs/alarm/v2/30/boundsEvolution-3502.pdf, id=509, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/30/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/30/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/30/boundsEvolution-3502.pdf  used on i
+nput line 311.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/50/boundsEvolution-3502.pdf, id=510, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/50/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/50/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/50/boundsEvolution-3502.pdf  used on i
+nput line 312.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/70/boundsEvolution-3502.pdf, id=511, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/70/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/70/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/70/boundsEvolution-3502.pdf  used on i
+nput line 313.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/90/boundsEvolution-3502.pdf, id=512, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/90/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/90/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/90/boundsEvolution-3502.pdf  used on i
+nput line 314.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/30/avgBoundsEvolution-3502.pdf, id=513, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/30/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/30/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/30/avgBoundsEvolution-3502.pdf  used o
+n input line 321.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/50/avgBoundsEvolution-3502.pdf, id=514, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/50/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/50/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/50/avgBoundsEvolution-3502.pdf  used o
+n input line 322.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/70/avgBoundsEvolution-3502.pdf, id=515, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/70/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/70/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/70/avgBoundsEvolution-3502.pdf  used o
+n input line 323.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/90/avgBoundsEvolution-3502.pdf, id=516, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/90/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/90/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/90/avgBoundsEvolution-3502.pdf  used o
+n input line 324.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/alarm/v2/30/bayBoundsEvolution-3502.pdf, id=517, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/30/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/30/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/30/bayBoundsEvolution-3502.pdf  used o
+n input line 331.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/50/bayBoundsEvolution-3502.pdf, id=518, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/50/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/50/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/50/bayBoundsEvolution-3502.pdf  used o
+n input line 332.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/70/bayBoundsEvolution-3502.pdf, id=519, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/70/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/70/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/70/bayBoundsEvolution-3502.pdf  used o
+n input line 333.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v2/90/bayBoundsEvolution-3502.pdf, id=520, 505.89pt x 505.89pt>
+File: ./figs/alarm/v2/90/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v2/90/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v2/90/bayBoundsEvolution-3502.pdf  used o
+n input line 334.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21
+
+ <./figs/alarm/v2/30/boundsEvolution-3502.pdf> <./figs/alarm/v2/50/boundsEvolut
+ion-3502.pdf> <./figs/alarm/v2/70/boundsEvolution-3502.pdf> <./figs/alarm/v2/90
+/boundsEvolution-3502.pdf>] [22 <./figs/alarm/v2/30/avgBoundsEvolution-3502.pdf
+> <./figs/alarm/v2/50/avgBoundsEvolution-3502.pdf> <./figs/alarm/v2/70/avgBound
+sEvolution-3502.pdf> <./figs/alarm/v2/90/avgBoundsEvolution-3502.pdf>]
+[23 <./figs/alarm/v2/30/bayBoundsEvolution-3502.pdf> <./figs/alarm/v2/50/bayBou
+ndsEvolution-3502.pdf> <./figs/alarm/v2/70/bayBoundsEvolution-3502.pdf> <./figs
+/alarm/v2/90/bayBoundsEvolution-3502.pdf>]
+<./figs/alarm/v3/30/boundsEvolution-3502.pdf, id=590, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/30/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/30/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/30/boundsEvolution-3502.pdf  used on i
+nput line 345.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/50/boundsEvolution-3502.pdf, id=591, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/50/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/50/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/50/boundsEvolution-3502.pdf  used on i
+nput line 346.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/70/boundsEvolution-3502.pdf, id=592, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/70/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/70/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/70/boundsEvolution-3502.pdf  used on i
+nput line 347.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/90/boundsEvolution-3502.pdf, id=593, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/90/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/90/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/90/boundsEvolution-3502.pdf  used on i
+nput line 348.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/30/avgBoundsEvolution-3502.pdf, id=594, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/30/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/30/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/30/avgBoundsEvolution-3502.pdf  used o
+n input line 355.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/50/avgBoundsEvolution-3502.pdf, id=595, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/50/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/50/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/50/avgBoundsEvolution-3502.pdf  used o
+n input line 356.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/70/avgBoundsEvolution-3502.pdf, id=596, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/70/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/70/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/70/avgBoundsEvolution-3502.pdf  used o
+n input line 357.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/90/avgBoundsEvolution-3502.pdf, id=597, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/90/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/90/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/90/avgBoundsEvolution-3502.pdf  used o
+n input line 358.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/alarm/v3/30/bayBoundsEvolution-3502.pdf, id=598, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/30/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/30/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/30/bayBoundsEvolution-3502.pdf  used o
+n input line 365.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/50/bayBoundsEvolution-3502.pdf, id=599, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/50/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/50/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/50/bayBoundsEvolution-3502.pdf  used o
+n input line 366.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/70/bayBoundsEvolution-3502.pdf, id=600, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/70/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/70/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/70/bayBoundsEvolution-3502.pdf  used o
+n input line 367.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v3/90/bayBoundsEvolution-3502.pdf, id=601, 505.89pt x 505.89pt>
+File: ./figs/alarm/v3/90/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v3/90/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v3/90/bayBoundsEvolution-3502.pdf  used o
+n input line 368.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24
+
+ <./figs/alarm/v3/30/boundsEvolution-3502.pdf> <./figs/alarm/v3/50/boundsEvolut
+ion-3502.pdf> <./figs/alarm/v3/70/boundsEvolution-3502.pdf> <./figs/alarm/v3/90
+/boundsEvolution-3502.pdf>] [25 <./figs/alarm/v3/30/avgBoundsEvolution-3502.pdf
+> <./figs/alarm/v3/50/avgBoundsEvolution-3502.pdf> <./figs/alarm/v3/70/avgBound
+sEvolution-3502.pdf> <./figs/alarm/v3/90/avgBoundsEvolution-3502.pdf>]
+[26 <./figs/alarm/v3/30/bayBoundsEvolution-3502.pdf> <./figs/alarm/v3/50/bayBou
+ndsEvolution-3502.pdf> <./figs/alarm/v3/70/bayBoundsEvolution-3502.pdf> <./figs
+/alarm/v3/90/bayBoundsEvolution-3502.pdf>]
+<./figs/alarm/v4/30/boundsEvolution-3502.pdf, id=673, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/30/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/30/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/30/boundsEvolution-3502.pdf  used on i
+nput line 379.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/50/boundsEvolution-3502.pdf, id=674, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/50/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/50/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/50/boundsEvolution-3502.pdf  used on i
+nput line 380.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/70/boundsEvolution-3502.pdf, id=675, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/70/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/70/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/70/boundsEvolution-3502.pdf  used on i
+nput line 381.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/90/boundsEvolution-3502.pdf, id=676, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/90/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/90/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/90/boundsEvolution-3502.pdf  used on i
+nput line 382.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/30/avgBoundsEvolution-3502.pdf, id=677, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/30/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/30/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/30/avgBoundsEvolution-3502.pdf  used o
+n input line 389.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/50/avgBoundsEvolution-3502.pdf, id=678, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/50/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/50/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/50/avgBoundsEvolution-3502.pdf  used o
+n input line 390.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/70/avgBoundsEvolution-3502.pdf, id=679, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/70/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/70/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/70/avgBoundsEvolution-3502.pdf  used o
+n input line 391.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/90/avgBoundsEvolution-3502.pdf, id=680, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/90/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/90/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/90/avgBoundsEvolution-3502.pdf  used o
+n input line 392.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/alarm/v4/30/bayBoundsEvolution-3502.pdf, id=681, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/30/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/30/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/30/bayBoundsEvolution-3502.pdf  used o
+n input line 399.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/50/bayBoundsEvolution-3502.pdf, id=682, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/50/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/50/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/50/bayBoundsEvolution-3502.pdf  used o
+n input line 400.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/70/bayBoundsEvolution-3502.pdf, id=683, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/70/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/70/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/70/bayBoundsEvolution-3502.pdf  used o
+n input line 401.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v4/90/bayBoundsEvolution-3502.pdf, id=684, 505.89pt x 505.89pt>
+File: ./figs/alarm/v4/90/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v4/90/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v4/90/bayBoundsEvolution-3502.pdf  used o
+n input line 402.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27
+
+ <./figs/alarm/v4/30/boundsEvolution-3502.pdf> <./figs/alarm/v4/50/boundsEvolut
+ion-3502.pdf> <./figs/alarm/v4/70/boundsEvolution-3502.pdf> <./figs/alarm/v4/90
+/boundsEvolution-3502.pdf>] [28 <./figs/alarm/v4/30/avgBoundsEvolution-3502.pdf
+> <./figs/alarm/v4/50/avgBoundsEvolution-3502.pdf> <./figs/alarm/v4/70/avgBound
+sEvolution-3502.pdf> <./figs/alarm/v4/90/avgBoundsEvolution-3502.pdf>]
+[29 <./figs/alarm/v4/30/bayBoundsEvolution-3502.pdf> <./figs/alarm/v4/50/bayBou
+ndsEvolution-3502.pdf> <./figs/alarm/v4/70/bayBoundsEvolution-3502.pdf> <./figs
+/alarm/v4/90/bayBoundsEvolution-3502.pdf>]
+<./figs/alarm/v5/30/boundsEvolution-3502.pdf, id=754, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/30/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/30/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/30/boundsEvolution-3502.pdf  used on i
+nput line 413.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/50/boundsEvolution-3502.pdf, id=755, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/50/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/50/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/50/boundsEvolution-3502.pdf  used on i
+nput line 414.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/70/boundsEvolution-3502.pdf, id=756, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/70/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/70/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/70/boundsEvolution-3502.pdf  used on i
+nput line 415.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/90/boundsEvolution-3502.pdf, id=757, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/90/boundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/90/boundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/90/boundsEvolution-3502.pdf  used on i
+nput line 416.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/30/avgBoundsEvolution-3502.pdf, id=758, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/30/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/30/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/30/avgBoundsEvolution-3502.pdf  used o
+n input line 423.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/50/avgBoundsEvolution-3502.pdf, id=759, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/50/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/50/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/50/avgBoundsEvolution-3502.pdf  used o
+n input line 424.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/70/avgBoundsEvolution-3502.pdf, id=760, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/70/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/70/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/70/avgBoundsEvolution-3502.pdf  used o
+n input line 425.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/90/avgBoundsEvolution-3502.pdf, id=761, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/90/avgBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/90/avgBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/90/avgBoundsEvolution-3502.pdf  used o
+n input line 426.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/alarm/v5/30/bayBoundsEvolution-3502.pdf, id=762, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/30/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/30/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/30/bayBoundsEvolution-3502.pdf  used o
+n input line 433.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/50/bayBoundsEvolution-3502.pdf, id=763, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/50/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/50/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/50/bayBoundsEvolution-3502.pdf  used o
+n input line 434.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/70/bayBoundsEvolution-3502.pdf, id=764, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/70/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/70/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/70/bayBoundsEvolution-3502.pdf  used o
+n input line 435.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/alarm/v5/90/bayBoundsEvolution-3502.pdf, id=765, 505.89pt x 505.89pt>
+File: ./figs/alarm/v5/90/bayBoundsEvolution-3502.pdf Graphic file (type pdf)
+<use ./figs/alarm/v5/90/bayBoundsEvolution-3502.pdf>
+Package pdftex.def Info: ./figs/alarm/v5/90/bayBoundsEvolution-3502.pdf  used o
+n input line 436.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30
+
+ <./figs/alarm/v5/30/boundsEvolution-3502.pdf> <./figs/alarm/v5/50/boundsEvolut
+ion-3502.pdf> <./figs/alarm/v5/70/boundsEvolution-3502.pdf> <./figs/alarm/v5/90
+/boundsEvolution-3502.pdf>] [31 <./figs/alarm/v5/30/avgBoundsEvolution-3502.pdf
+> <./figs/alarm/v5/50/avgBoundsEvolution-3502.pdf> <./figs/alarm/v5/70/avgBound
+sEvolution-3502.pdf> <./figs/alarm/v5/90/avgBoundsEvolution-3502.pdf>]
+[32 <./figs/alarm/v5/30/bayBoundsEvolution-3502.pdf> <./figs/alarm/v5/50/bayBou
+ndsEvolution-3502.pdf> <./figs/alarm/v5/70/bayBoundsEvolution-3502.pdf> <./figs
+/alarm/v5/90/bayBoundsEvolution-3502.pdf>]
+<./figs/hepar2/v1/25/boundsEvolution-10352.pdf, id=837, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v1/25/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/25/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/25/boundsEvolution-10352.pdf  used on
+ input line 486.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/50/boundsEvolution-10352.pdf, id=838, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v1/50/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/50/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/50/boundsEvolution-10352.pdf  used on
+ input line 487.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/75/boundsEvolution-10352.pdf, id=839, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v1/75/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/75/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/75/boundsEvolution-10352.pdf  used on
+ input line 488.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/100/boundsEvolution-10352.pdf, id=840, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v1/100/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/100/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/100/boundsEvolution-10352.pdf  used o
+n input line 489.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/hepar2/v1/25/avgBoundsEvolution-10352.pdf, id=841, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v1/25/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/25/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/25/avgBoundsEvolution-10352.pdf  used
+ on input line 496.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/50/avgBoundsEvolution-10352.pdf, id=842, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v1/50/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/50/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/50/avgBoundsEvolution-10352.pdf  used
+ on input line 497.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/75/avgBoundsEvolution-10352.pdf, id=843, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v1/75/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/75/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/75/avgBoundsEvolution-10352.pdf  used
+ on input line 498.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/100/avgBoundsEvolution-10352.pdf, id=844, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v1/100/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v1/100/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/100/avgBoundsEvolution-10352.pdf  use
+d on input line 499.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/hepar2/v1/25/bayBoundsEvolution-10352.pdf, id=845, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v1/25/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/25/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/25/bayBoundsEvolution-10352.pdf  used
+ on input line 506.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/50/bayBoundsEvolution-10352.pdf, id=846, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v1/50/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/50/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/50/bayBoundsEvolution-10352.pdf  used
+ on input line 507.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/75/bayBoundsEvolution-10352.pdf, id=847, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v1/75/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v1/75/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/75/bayBoundsEvolution-10352.pdf  used
+ on input line 508.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v1/100/bayBoundsEvolution-10352.pdf, id=848, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v1/100/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v1/100/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v1/100/bayBoundsEvolution-10352.pdf  use
+d on input line 509.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33
+
+] [34 <./figs/hepar2/v1/25/boundsEvolution-10352.pdf> <./figs/hepar2/v1/50/boun
+dsEvolution-10352.pdf> <./figs/hepar2/v1/75/boundsEvolution-10352.pdf> <./figs/
+hepar2/v1/100/boundsEvolution-10352.pdf>] [35 <./figs/hepar2/v1/25/avgBoundsEvo
+lution-10352.pdf> <./figs/hepar2/v1/50/avgBoundsEvolution-10352.pdf> <./figs/he
+par2/v1/75/avgBoundsEvolution-10352.pdf> <./figs/hepar2/v1/100/avgBoundsEvoluti
+on-10352.pdf>] [36 <./figs/hepar2/v1/25/bayBoundsEvolution-10352.pdf> <./figs/h
+epar2/v1/50/bayBoundsEvolution-10352.pdf> <./figs/hepar2/v1/75/bayBoundsEvoluti
+on-10352.pdf> <./figs/hepar2/v1/100/bayBoundsEvolution-10352.pdf>]
+<./figs/hepar2/v2/25/boundsEvolution-10352.pdf, id=921, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v2/25/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/25/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/25/boundsEvolution-10352.pdf  used on
+ input line 520.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/50/boundsEvolution-10352.pdf, id=922, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v2/50/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/50/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/50/boundsEvolution-10352.pdf  used on
+ input line 521.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/75/boundsEvolution-10352.pdf, id=923, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v2/75/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/75/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/75/boundsEvolution-10352.pdf  used on
+ input line 522.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/100/boundsEvolution-10352.pdf, id=924, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v2/100/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/100/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/100/boundsEvolution-10352.pdf  used o
+n input line 523.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/25/avgBoundsEvolution-10352.pdf, id=925, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v2/25/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/25/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/25/avgBoundsEvolution-10352.pdf  used
+ on input line 530.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/50/avgBoundsEvolution-10352.pdf, id=926, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v2/50/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/50/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/50/avgBoundsEvolution-10352.pdf  used
+ on input line 531.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/75/avgBoundsEvolution-10352.pdf, id=927, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v2/75/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/75/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/75/avgBoundsEvolution-10352.pdf  used
+ on input line 532.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/100/avgBoundsEvolution-10352.pdf, id=928, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v2/100/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v2/100/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/100/avgBoundsEvolution-10352.pdf  use
+d on input line 533.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/hepar2/v2/25/bayBoundsEvolution-10352.pdf, id=929, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v2/25/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/25/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/25/bayBoundsEvolution-10352.pdf  used
+ on input line 540.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/50/bayBoundsEvolution-10352.pdf, id=930, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v2/50/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/50/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/50/bayBoundsEvolution-10352.pdf  used
+ on input line 541.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/75/bayBoundsEvolution-10352.pdf, id=931, 505.89pt x 505.89pt>
+
+File: ./figs/hepar2/v2/75/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v2/75/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/75/bayBoundsEvolution-10352.pdf  used
+ on input line 542.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v2/100/bayBoundsEvolution-10352.pdf, id=932, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v2/100/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v2/100/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v2/100/bayBoundsEvolution-10352.pdf  use
+d on input line 543.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37
+
+ <./figs/hepar2/v2/25/boundsEvolution-10352.pdf> <./figs/hepar2/v2/50/boundsEvo
+lution-10352.pdf> <./figs/hepar2/v2/75/boundsEvolution-10352.pdf> <./figs/hepar
+2/v2/100/boundsEvolution-10352.pdf>] [38 <./figs/hepar2/v2/25/avgBoundsEvolutio
+n-10352.pdf> <./figs/hepar2/v2/50/avgBoundsEvolution-10352.pdf> <./figs/hepar2/
+v2/75/avgBoundsEvolution-10352.pdf> <./figs/hepar2/v2/100/avgBoundsEvolution-10
+352.pdf>] [39 <./figs/hepar2/v2/25/bayBoundsEvolution-10352.pdf> <./figs/hepar2
+/v2/50/bayBoundsEvolution-10352.pdf> <./figs/hepar2/v2/75/bayBoundsEvolution-10
+352.pdf> <./figs/hepar2/v2/100/bayBoundsEvolution-10352.pdf>]
+<./figs/hepar2/v3/25/boundsEvolution-10352.pdf, id=1004, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v3/25/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/25/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/25/boundsEvolution-10352.pdf  used on
+ input line 554.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/50/boundsEvolution-10352.pdf, id=1005, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v3/50/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/50/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/50/boundsEvolution-10352.pdf  used on
+ input line 555.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/75/boundsEvolution-10352.pdf, id=1006, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v3/75/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/75/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/75/boundsEvolution-10352.pdf  used on
+ input line 556.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/100/boundsEvolution-10352.pdf, id=1007, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v3/100/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/100/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/100/boundsEvolution-10352.pdf  used o
+n input line 557.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/25/avgBoundsEvolution-10352.pdf, id=1008, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v3/25/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/25/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/25/avgBoundsEvolution-10352.pdf  used
+ on input line 564.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/50/avgBoundsEvolution-10352.pdf, id=1009, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v3/50/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/50/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/50/avgBoundsEvolution-10352.pdf  used
+ on input line 565.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/75/avgBoundsEvolution-10352.pdf, id=1010, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v3/75/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/75/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/75/avgBoundsEvolution-10352.pdf  used
+ on input line 566.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/100/avgBoundsEvolution-10352.pdf, id=1011, 505.89pt x 505.89p
+t>
+File: ./figs/hepar2/v3/100/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v3/100/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/100/avgBoundsEvolution-10352.pdf  use
+d on input line 567.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/hepar2/v3/25/bayBoundsEvolution-10352.pdf, id=1012, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v3/25/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/25/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/25/bayBoundsEvolution-10352.pdf  used
+ on input line 574.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/50/bayBoundsEvolution-10352.pdf, id=1013, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v3/50/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/50/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/50/bayBoundsEvolution-10352.pdf  used
+ on input line 575.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/75/bayBoundsEvolution-10352.pdf, id=1014, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v3/75/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v3/75/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/75/bayBoundsEvolution-10352.pdf  used
+ on input line 576.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v3/100/bayBoundsEvolution-10352.pdf, id=1015, 505.89pt x 505.89p
+t>
+File: ./figs/hepar2/v3/100/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v3/100/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v3/100/bayBoundsEvolution-10352.pdf  use
+d on input line 577.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40
+
+ <./figs/hepar2/v3/25/boundsEvolution-10352.pdf> <./figs/hepar2/v3/50/boundsEvo
+lution-10352.pdf> <./figs/hepar2/v3/75/boundsEvolution-10352.pdf> <./figs/hepar
+2/v3/100/boundsEvolution-10352.pdf>] [41 <./figs/hepar2/v3/25/avgBoundsEvolutio
+n-10352.pdf> <./figs/hepar2/v3/50/avgBoundsEvolution-10352.pdf> <./figs/hepar2/
+v3/75/avgBoundsEvolution-10352.pdf> <./figs/hepar2/v3/100/avgBoundsEvolution-10
+352.pdf>] [42 <./figs/hepar2/v3/25/bayBoundsEvolution-10352.pdf> <./figs/hepar2
+/v3/50/bayBoundsEvolution-10352.pdf> <./figs/hepar2/v3/75/bayBoundsEvolution-10
+352.pdf> <./figs/hepar2/v3/100/bayBoundsEvolution-10352.pdf>]
+<./figs/hepar2/v4/25/boundsEvolution-10352.pdf, id=1086, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v4/25/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/25/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/25/boundsEvolution-10352.pdf  used on
+ input line 588.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/50/boundsEvolution-10352.pdf, id=1087, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v4/50/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/50/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/50/boundsEvolution-10352.pdf  used on
+ input line 589.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/75/boundsEvolution-10352.pdf, id=1088, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v4/75/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/75/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/75/boundsEvolution-10352.pdf  used on
+ input line 590.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/100/boundsEvolution-10352.pdf, id=1089, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v4/100/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/100/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/100/boundsEvolution-10352.pdf  used o
+n input line 591.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/25/avgBoundsEvolution-10352.pdf, id=1090, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v4/25/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/25/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/25/avgBoundsEvolution-10352.pdf  used
+ on input line 598.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/50/avgBoundsEvolution-10352.pdf, id=1091, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v4/50/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/50/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/50/avgBoundsEvolution-10352.pdf  used
+ on input line 599.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/75/avgBoundsEvolution-10352.pdf, id=1092, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v4/75/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/75/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/75/avgBoundsEvolution-10352.pdf  used
+ on input line 600.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/100/avgBoundsEvolution-10352.pdf, id=1093, 505.89pt x 505.89p
+t>
+File: ./figs/hepar2/v4/100/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v4/100/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/100/avgBoundsEvolution-10352.pdf  use
+d on input line 601.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/hepar2/v4/25/bayBoundsEvolution-10352.pdf, id=1094, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v4/25/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/25/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/25/bayBoundsEvolution-10352.pdf  used
+ on input line 608.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/50/bayBoundsEvolution-10352.pdf, id=1095, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v4/50/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/50/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/50/bayBoundsEvolution-10352.pdf  used
+ on input line 609.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/75/bayBoundsEvolution-10352.pdf, id=1096, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v4/75/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v4/75/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/75/bayBoundsEvolution-10352.pdf  used
+ on input line 610.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v4/100/bayBoundsEvolution-10352.pdf, id=1097, 505.89pt x 505.89p
+t>
+File: ./figs/hepar2/v4/100/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v4/100/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v4/100/bayBoundsEvolution-10352.pdf  use
+d on input line 611.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[43
+
+ <./figs/hepar2/v4/25/boundsEvolution-10352.pdf> <./figs/hepar2/v4/50/boundsEvo
+lution-10352.pdf> <./figs/hepar2/v4/75/boundsEvolution-10352.pdf> <./figs/hepar
+2/v4/100/boundsEvolution-10352.pdf>] [44 <./figs/hepar2/v4/25/avgBoundsEvolutio
+n-10352.pdf> <./figs/hepar2/v4/50/avgBoundsEvolution-10352.pdf> <./figs/hepar2/
+v4/75/avgBoundsEvolution-10352.pdf> <./figs/hepar2/v4/100/avgBoundsEvolution-10
+352.pdf>] [45 <./figs/hepar2/v4/25/bayBoundsEvolution-10352.pdf> <./figs/hepar2
+/v4/50/bayBoundsEvolution-10352.pdf> <./figs/hepar2/v4/75/bayBoundsEvolution-10
+352.pdf> <./figs/hepar2/v4/100/bayBoundsEvolution-10352.pdf>]
+<./figs/hepar2/v5/25/boundsEvolution-10352.pdf, id=1168, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v5/25/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/25/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/25/boundsEvolution-10352.pdf  used on
+ input line 622.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/50/boundsEvolution-10352.pdf, id=1169, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v5/50/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/50/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/50/boundsEvolution-10352.pdf  used on
+ input line 623.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/75/boundsEvolution-10352.pdf, id=1170, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v5/75/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/75/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/75/boundsEvolution-10352.pdf  used on
+ input line 624.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/100/boundsEvolution-10352.pdf, id=1171, 505.89pt x 505.89pt>
+File: ./figs/hepar2/v5/100/boundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/100/boundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/100/boundsEvolution-10352.pdf  used o
+n input line 625.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/25/avgBoundsEvolution-10352.pdf, id=1172, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v5/25/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/25/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/25/avgBoundsEvolution-10352.pdf  used
+ on input line 632.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/50/avgBoundsEvolution-10352.pdf, id=1173, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v5/50/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/50/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/50/avgBoundsEvolution-10352.pdf  used
+ on input line 633.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/75/avgBoundsEvolution-10352.pdf, id=1174, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v5/75/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/75/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/75/avgBoundsEvolution-10352.pdf  used
+ on input line 634.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/100/avgBoundsEvolution-10352.pdf, id=1175, 505.89pt x 505.89p
+t>
+File: ./figs/hepar2/v5/100/avgBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v5/100/avgBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/100/avgBoundsEvolution-10352.pdf  use
+d on input line 635.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/hepar2/v5/25/bayBoundsEvolution-10352.pdf, id=1176, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v5/25/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/25/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/25/bayBoundsEvolution-10352.pdf  used
+ on input line 642.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/50/bayBoundsEvolution-10352.pdf, id=1177, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v5/50/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/50/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/50/bayBoundsEvolution-10352.pdf  used
+ on input line 643.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/75/bayBoundsEvolution-10352.pdf, id=1178, 505.89pt x 505.89pt
+>
+File: ./figs/hepar2/v5/75/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+<use ./figs/hepar2/v5/75/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/75/bayBoundsEvolution-10352.pdf  used
+ on input line 644.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/hepar2/v5/100/bayBoundsEvolution-10352.pdf, id=1179, 505.89pt x 505.89p
+t>
+File: ./figs/hepar2/v5/100/bayBoundsEvolution-10352.pdf Graphic file (type pdf)
+
+<use ./figs/hepar2/v5/100/bayBoundsEvolution-10352.pdf>
+Package pdftex.def Info: ./figs/hepar2/v5/100/bayBoundsEvolution-10352.pdf  use
+d on input line 645.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46
+
+ <./figs/hepar2/v5/25/boundsEvolution-10352.pdf> <./figs/hepar2/v5/50/boundsEvo
+lution-10352.pdf> <./figs/hepar2/v5/75/boundsEvolution-10352.pdf> <./figs/hepar
+2/v5/100/boundsEvolution-10352.pdf>]
+<./figs/win95pts/v1/25/boundsEvolution-14252.pdf, id=1203, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v1/25/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v1/25/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/25/boundsEvolution-14252.pdf  used 
+on input line 693.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/50/boundsEvolution-14252.pdf, id=1204, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v1/50/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v1/50/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/50/boundsEvolution-14252.pdf  used 
+on input line 694.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/75/boundsEvolution-14252.pdf, id=1205, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v1/75/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v1/75/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/75/boundsEvolution-14252.pdf  used 
+on input line 695.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/100/boundsEvolution-14252.pdf, id=1206, 505.89pt x 505.89pt
+>
+File: ./figs/win95pts/v1/100/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v1/100/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/100/boundsEvolution-14252.pdf  used
+ on input line 696.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/win95pts/v1/25/avgBoundsEvolution-14252.pdf, id=1207, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v1/25/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v1/25/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/25/avgBoundsEvolution-14252.pdf  us
+ed on input line 703.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/50/avgBoundsEvolution-14252.pdf, id=1208, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v1/50/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v1/50/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/50/avgBoundsEvolution-14252.pdf  us
+ed on input line 704.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/75/avgBoundsEvolution-14252.pdf, id=1209, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v1/75/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v1/75/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/75/avgBoundsEvolution-14252.pdf  us
+ed on input line 705.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/100/avgBoundsEvolution-14252.pdf, id=1210, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v1/100/avgBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v1/100/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/100/avgBoundsEvolution-14252.pdf  u
+sed on input line 706.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/win95pts/v1/25/bayBoundsEvolution-14252.pdf, id=1211, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v1/25/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v1/25/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/25/bayBoundsEvolution-14252.pdf  us
+ed on input line 713.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/50/bayBoundsEvolution-14252.pdf, id=1212, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v1/50/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v1/50/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/50/bayBoundsEvolution-14252.pdf  us
+ed on input line 714.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/75/bayBoundsEvolution-14252.pdf, id=1213, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v1/75/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v1/75/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/75/bayBoundsEvolution-14252.pdf  us
+ed on input line 715.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v1/100/bayBoundsEvolution-14252.pdf, id=1214, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v1/100/bayBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v1/100/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v1/100/bayBoundsEvolution-14252.pdf  u
+sed on input line 716.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[47 <./figs/hepar2/v5/25/avgBoundsEvolution-10352.pdf> <./figs/hepar2/v5/50/avg
+BoundsEvolution-10352.pdf> <./figs/hepar2/v5/75/avgBoundsEvolution-10352.pdf> <
+./figs/hepar2/v5/100/avgBoundsEvolution-10352.pdf>] [48 <./figs/hepar2/v5/25/ba
+yBoundsEvolution-10352.pdf> <./figs/hepar2/v5/50/bayBoundsEvolution-10352.pdf> 
+<./figs/hepar2/v5/75/bayBoundsEvolution-10352.pdf> <./figs/hepar2/v5/100/bayBou
+ndsEvolution-10352.pdf>] [49 <./figs/win95pts/v1/25/boundsEvolution-14252.pdf> 
+<./figs/win95pts/v1/50/boundsEvolution-14252.pdf> <./figs/win95pts/v1/75/bounds
+Evolution-14252.pdf> <./figs/win95pts/v1/100/boundsEvolution-14252.pdf>]
+[50 <./figs/win95pts/v1/25/avgBoundsEvolution-14252.pdf> <./figs/win95pts/v1/50
+/avgBoundsEvolution-14252.pdf> <./figs/win95pts/v1/75/avgBoundsEvolution-14252.
+pdf> <./figs/win95pts/v1/100/avgBoundsEvolution-14252.pdf>] [51 <./figs/win95pt
+s/v1/25/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v1/50/bayBoundsEvolution
+-14252.pdf> <./figs/win95pts/v1/75/bayBoundsEvolution-14252.pdf> <./figs/win95p
+ts/v1/100/bayBoundsEvolution-14252.pdf>]
+<./figs/win95pts/v2/25/boundsEvolution-14252.pdf, id=1332, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v2/25/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v2/25/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/25/boundsEvolution-14252.pdf  used 
+on input line 727.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/50/boundsEvolution-14252.pdf, id=1333, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v2/50/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v2/50/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/50/boundsEvolution-14252.pdf  used 
+on input line 728.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/75/boundsEvolution-14252.pdf, id=1334, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v2/75/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v2/75/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/75/boundsEvolution-14252.pdf  used 
+on input line 729.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/100/boundsEvolution-14252.pdf, id=1335, 505.89pt x 505.89pt
+>
+File: ./figs/win95pts/v2/100/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v2/100/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/100/boundsEvolution-14252.pdf  used
+ on input line 730.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/25/avgBoundsEvolution-14252.pdf, id=1336, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v2/25/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v2/25/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/25/avgBoundsEvolution-14252.pdf  us
+ed on input line 737.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/50/avgBoundsEvolution-14252.pdf, id=1337, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v2/50/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v2/50/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/50/avgBoundsEvolution-14252.pdf  us
+ed on input line 738.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/75/avgBoundsEvolution-14252.pdf, id=1338, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v2/75/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v2/75/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/75/avgBoundsEvolution-14252.pdf  us
+ed on input line 739.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/100/avgBoundsEvolution-14252.pdf, id=1339, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v2/100/avgBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v2/100/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/100/avgBoundsEvolution-14252.pdf  u
+sed on input line 740.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/win95pts/v2/25/bayBoundsEvolution-14252.pdf, id=1340, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v2/25/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v2/25/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/25/bayBoundsEvolution-14252.pdf  us
+ed on input line 747.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/50/bayBoundsEvolution-14252.pdf, id=1341, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v2/50/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v2/50/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/50/bayBoundsEvolution-14252.pdf  us
+ed on input line 748.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/75/bayBoundsEvolution-14252.pdf, id=1342, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v2/75/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v2/75/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/75/bayBoundsEvolution-14252.pdf  us
+ed on input line 749.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v2/100/bayBoundsEvolution-14252.pdf, id=1343, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v2/100/bayBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v2/100/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v2/100/bayBoundsEvolution-14252.pdf  u
+sed on input line 750.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[52
+
+ <./figs/win95pts/v2/25/boundsEvolution-14252.pdf> <./figs/win95pts/v2/50/bound
+sEvolution-14252.pdf> <./figs/win95pts/v2/75/boundsEvolution-14252.pdf> <./figs
+/win95pts/v2/100/boundsEvolution-14252.pdf>] [53 <./figs/win95pts/v2/25/avgBoun
+dsEvolution-14252.pdf> <./figs/win95pts/v2/50/avgBoundsEvolution-14252.pdf> <./
+figs/win95pts/v2/75/avgBoundsEvolution-14252.pdf> <./figs/win95pts/v2/100/avgBo
+undsEvolution-14252.pdf>] [54 <./figs/win95pts/v2/25/bayBoundsEvolution-14252.p
+df> <./figs/win95pts/v2/50/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v2/75
+/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v2/100/bayBoundsEvolution-14252
+.pdf>]
+<./figs/win95pts/v3/25/boundsEvolution-14252.pdf, id=1414, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v3/25/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v3/25/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/25/boundsEvolution-14252.pdf  used 
+on input line 761.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/50/boundsEvolution-14252.pdf, id=1415, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v3/50/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v3/50/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/50/boundsEvolution-14252.pdf  used 
+on input line 762.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/75/boundsEvolution-14252.pdf, id=1416, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v3/75/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v3/75/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/75/boundsEvolution-14252.pdf  used 
+on input line 763.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/100/boundsEvolution-14252.pdf, id=1417, 505.89pt x 505.89pt
+>
+File: ./figs/win95pts/v3/100/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v3/100/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/100/boundsEvolution-14252.pdf  used
+ on input line 764.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/25/avgBoundsEvolution-14252.pdf, id=1418, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v3/25/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v3/25/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/25/avgBoundsEvolution-14252.pdf  us
+ed on input line 771.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/50/avgBoundsEvolution-14252.pdf, id=1419, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v3/50/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v3/50/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/50/avgBoundsEvolution-14252.pdf  us
+ed on input line 772.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/75/avgBoundsEvolution-14252.pdf, id=1420, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v3/75/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v3/75/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/75/avgBoundsEvolution-14252.pdf  us
+ed on input line 773.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/100/avgBoundsEvolution-14252.pdf, id=1421, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v3/100/avgBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v3/100/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/100/avgBoundsEvolution-14252.pdf  u
+sed on input line 774.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/win95pts/v3/25/bayBoundsEvolution-14252.pdf, id=1422, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v3/25/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v3/25/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/25/bayBoundsEvolution-14252.pdf  us
+ed on input line 781.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/50/bayBoundsEvolution-14252.pdf, id=1423, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v3/50/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v3/50/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/50/bayBoundsEvolution-14252.pdf  us
+ed on input line 782.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/75/bayBoundsEvolution-14252.pdf, id=1424, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v3/75/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v3/75/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/75/bayBoundsEvolution-14252.pdf  us
+ed on input line 783.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v3/100/bayBoundsEvolution-14252.pdf, id=1425, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v3/100/bayBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v3/100/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v3/100/bayBoundsEvolution-14252.pdf  u
+sed on input line 784.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55
+
+ <./figs/win95pts/v3/25/boundsEvolution-14252.pdf> <./figs/win95pts/v3/50/bound
+sEvolution-14252.pdf> <./figs/win95pts/v3/75/boundsEvolution-14252.pdf> <./figs
+/win95pts/v3/100/boundsEvolution-14252.pdf>] [56 <./figs/win95pts/v3/25/avgBoun
+dsEvolution-14252.pdf> <./figs/win95pts/v3/50/avgBoundsEvolution-14252.pdf> <./
+figs/win95pts/v3/75/avgBoundsEvolution-14252.pdf> <./figs/win95pts/v3/100/avgBo
+undsEvolution-14252.pdf>] [57 <./figs/win95pts/v3/25/bayBoundsEvolution-14252.p
+df> <./figs/win95pts/v3/50/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v3/75
+/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v3/100/bayBoundsEvolution-14252
+.pdf>]
+<./figs/win95pts/v4/25/boundsEvolution-14252.pdf, id=1496, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v4/25/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v4/25/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/25/boundsEvolution-14252.pdf  used 
+on input line 795.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/50/boundsEvolution-14252.pdf, id=1497, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v4/50/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v4/50/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/50/boundsEvolution-14252.pdf  used 
+on input line 796.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/75/boundsEvolution-14252.pdf, id=1498, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v4/75/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v4/75/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/75/boundsEvolution-14252.pdf  used 
+on input line 797.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/100/boundsEvolution-14252.pdf, id=1499, 505.89pt x 505.89pt
+>
+File: ./figs/win95pts/v4/100/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v4/100/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/100/boundsEvolution-14252.pdf  used
+ on input line 798.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/25/avgBoundsEvolution-14252.pdf, id=1500, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v4/25/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v4/25/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/25/avgBoundsEvolution-14252.pdf  us
+ed on input line 805.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/50/avgBoundsEvolution-14252.pdf, id=1501, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v4/50/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v4/50/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/50/avgBoundsEvolution-14252.pdf  us
+ed on input line 806.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/75/avgBoundsEvolution-14252.pdf, id=1502, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v4/75/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v4/75/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/75/avgBoundsEvolution-14252.pdf  us
+ed on input line 807.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/100/avgBoundsEvolution-14252.pdf, id=1503, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v4/100/avgBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v4/100/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/100/avgBoundsEvolution-14252.pdf  u
+sed on input line 808.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/win95pts/v4/25/bayBoundsEvolution-14252.pdf, id=1504, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v4/25/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v4/25/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/25/bayBoundsEvolution-14252.pdf  us
+ed on input line 815.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/50/bayBoundsEvolution-14252.pdf, id=1505, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v4/50/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v4/50/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/50/bayBoundsEvolution-14252.pdf  us
+ed on input line 816.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/75/bayBoundsEvolution-14252.pdf, id=1506, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v4/75/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v4/75/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/75/bayBoundsEvolution-14252.pdf  us
+ed on input line 817.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v4/100/bayBoundsEvolution-14252.pdf, id=1507, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v4/100/bayBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v4/100/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v4/100/bayBoundsEvolution-14252.pdf  u
+sed on input line 818.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[58
+
+ <./figs/win95pts/v4/25/boundsEvolution-14252.pdf> <./figs/win95pts/v4/50/bound
+sEvolution-14252.pdf> <./figs/win95pts/v4/75/boundsEvolution-14252.pdf> <./figs
+/win95pts/v4/100/boundsEvolution-14252.pdf>] [59 <./figs/win95pts/v4/25/avgBoun
+dsEvolution-14252.pdf> <./figs/win95pts/v4/50/avgBoundsEvolution-14252.pdf> <./
+figs/win95pts/v4/75/avgBoundsEvolution-14252.pdf> <./figs/win95pts/v4/100/avgBo
+undsEvolution-14252.pdf>] [60 <./figs/win95pts/v4/25/bayBoundsEvolution-14252.p
+df> <./figs/win95pts/v4/50/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v4/75
+/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v4/100/bayBoundsEvolution-14252
+.pdf>]
+<./figs/win95pts/v5/25/boundsEvolution-14252.pdf, id=1578, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v5/25/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v5/25/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/25/boundsEvolution-14252.pdf  used 
+on input line 829.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/50/boundsEvolution-14252.pdf, id=1579, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v5/50/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v5/50/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/50/boundsEvolution-14252.pdf  used 
+on input line 830.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/75/boundsEvolution-14252.pdf, id=1580, 505.89pt x 505.89pt>
+
+File: ./figs/win95pts/v5/75/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v5/75/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/75/boundsEvolution-14252.pdf  used 
+on input line 831.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/100/boundsEvolution-14252.pdf, id=1581, 505.89pt x 505.89pt
+>
+File: ./figs/win95pts/v5/100/boundsEvolution-14252.pdf Graphic file (type pdf)
+<use ./figs/win95pts/v5/100/boundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/100/boundsEvolution-14252.pdf  used
+ on input line 832.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/25/avgBoundsEvolution-14252.pdf, id=1582, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v5/25/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v5/25/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/25/avgBoundsEvolution-14252.pdf  us
+ed on input line 839.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/50/avgBoundsEvolution-14252.pdf, id=1583, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v5/50/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v5/50/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/50/avgBoundsEvolution-14252.pdf  us
+ed on input line 840.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/75/avgBoundsEvolution-14252.pdf, id=1584, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v5/75/avgBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v5/75/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/75/avgBoundsEvolution-14252.pdf  us
+ed on input line 841.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/100/avgBoundsEvolution-14252.pdf, id=1585, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v5/100/avgBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v5/100/avgBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/100/avgBoundsEvolution-14252.pdf  u
+sed on input line 842.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/win95pts/v5/25/bayBoundsEvolution-14252.pdf, id=1586, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v5/25/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v5/25/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/25/bayBoundsEvolution-14252.pdf  us
+ed on input line 849.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/50/bayBoundsEvolution-14252.pdf, id=1587, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v5/50/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v5/50/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/50/bayBoundsEvolution-14252.pdf  us
+ed on input line 850.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/75/bayBoundsEvolution-14252.pdf, id=1588, 505.89pt x 505.89
+pt>
+File: ./figs/win95pts/v5/75/bayBoundsEvolution-14252.pdf Graphic file (type pdf
+)
+<use ./figs/win95pts/v5/75/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/75/bayBoundsEvolution-14252.pdf  us
+ed on input line 851.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+<./figs/win95pts/v5/100/bayBoundsEvolution-14252.pdf, id=1589, 505.89pt x 505.8
+9pt>
+File: ./figs/win95pts/v5/100/bayBoundsEvolution-14252.pdf Graphic file (type pd
+f)
+<use ./figs/win95pts/v5/100/bayBoundsEvolution-14252.pdf>
+Package pdftex.def Info: ./figs/win95pts/v5/100/bayBoundsEvolution-14252.pdf  u
+sed on input line 852.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[61
+
+ <./figs/win95pts/v5/25/boundsEvolution-14252.pdf> <./figs/win95pts/v5/50/bound
+sEvolution-14252.pdf> <./figs/win95pts/v5/75/boundsEvolution-14252.pdf> <./figs
+/win95pts/v5/100/boundsEvolution-14252.pdf>] [62 <./figs/win95pts/v5/25/avgBoun
+dsEvolution-14252.pdf> <./figs/win95pts/v5/50/avgBoundsEvolution-14252.pdf> <./
+figs/win95pts/v5/75/avgBoundsEvolution-14252.pdf> <./figs/win95pts/v5/100/avgBo
+undsEvolution-14252.pdf>] [63 <./figs/win95pts/v5/25/bayBoundsEvolution-14252.p
+df> <./figs/win95pts/v5/50/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v5/75
+/bayBoundsEvolution-14252.pdf> <./figs/win95pts/v5/100/bayBoundsEvolution-14252
+.pdf>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 6478 strings out of 476182
+ 188109 string characters out of 5796604
+ 1876793 words of memory out of 6000000
+ 26680 multiletter control sequences out of 15000+600000
+ 518378 words of font info for 52 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 108i,13n,106p,10601b,302s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/
+cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on report.pdf (63 pages, 7660421 bytes).
+PDF statistics:
+ 1699 PDF objects out of 1728 (max. 8388607)
+ 1126 compressed objects within 12 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
