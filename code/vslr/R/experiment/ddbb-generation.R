@@ -1,0 +1,22 @@
+source("./R/fileUtils.R")
+
+# sets the number of datasets to generate
+nsets <- 5
+
+# generate the required datasets for training
+#generateDataBases("asia", 100, nsets)
+#generateDataBases("alarm", 600, nsets)
+#generateDataBases("hepar2", 21795, nsets)
+#generateDataBases("win95pts", 2500, nsets)
+#generateDataBases("hailfinder", 3000, nsets)
+
+# generates the test datasets
+nsets <- 1
+
+# generate the required datasets for test
+#generateDataBases("asia", 10000, nsets)
+#generateDataBases("alarm", 10000, nsets)
+#generateDataBases("hepar2", 10000, nsets)
+#generateDataBases("win95pts", 10000, nsets)
+generateDataBases("hailfinder", 10000, nsets)
+
