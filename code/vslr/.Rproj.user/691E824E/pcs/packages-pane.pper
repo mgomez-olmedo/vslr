@@ -1,7 +1,0 @@
-{
-    "installOptions": {
-        "installFromRepository": true,
-        "libraryPath": "/home/mgomez/R/x86_64-redhat-linux-gnu-library/4.3",
-        "installDependencies": true
-    }
-}
