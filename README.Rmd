@@ -1,3 +1,14 @@
+---
+title: "Experiments guide"
+author: "mgo"
+date: "2024-11-10"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Experiments description
 
 ## 0. Networks and datasets
@@ -53,6 +64,11 @@ data  prepared for boxplots plots generation (see Figure 2). The file is
 named *vsl.csv*. These data will be merged with the results obtained from
 bnlearn algorithms as described in step 2.
 
+```{r vsl-algorithms, eval = FALSE}
+# example with alarm: execute from main folder of R project
+Rscript R/experiment/vsl-algorithm.R alarm 100 4 5
+```
+
 ## 2. Comparison with bnlearn learning algorithms
 
 The complete list of algorithms selected are:
@@ -87,6 +103,16 @@ Rscript R/experiment/bnlearn-algorithms alarm 5
 
 The script produces a file names *bnlearn.csv* stored under *results/name* folder.
 A pdf file (*bnlearn.csv*) with the boxplots for bnlearn algorithms is also generated.
+File *bnlearn.csv* has the following format:
+
+```{r bnlearn-algorithms-results, eval = FALSE}
+hc-tr, hc-ts, fast.iamb-tr, fast.iamb-ts, ....., aracne-tr, aracne-ts
+-39993, -42767, -50804, -51376, ....., -65313, -65303
+-40114, -43349, -50311, -51732, ....., -63932, -64786
+-39829, -43408, -51661, -55085, ....., -63770, -67274
+-40623, -42133, -51701, -51380, ....., -65375, -64115
+-40156, -42731, -51205, -52812, ....., -65108, -66579
+```
 
 The graphics include in Figure 2 contains the comparison of *vsl* and *bnlearn*
 algorithms. This generation requires to gather the results stored in *vsl.csv*
