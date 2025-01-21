@@ -1,0 +1,124 @@
+---
+title: "Experiments guide"
+author: "mgo"
+date: "2024-11-10"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Experiments description
+
+## 0. Networks and datasets
+
+Bayesian networks (*alarm*, *hepar2* and *win95pts*) can be downloaded from 
+*bnlearn* repository (https://www.bnlearn.com/bnrepository/). Datasets 
+(*supercon*, *naticus*, *dota*, *comm* and *muskv2*) are stored in
+*UCI Machine learning repository* (https://archive.ics.uci.edu/) and are
+partitiones into training (65% of instances) and test (35%):
+
+* *supercon*: Data of 21263 superconductors and their relevant features, with
+21263 instances and 81 features. It requires discretization. URL: https://archive.ics.uci.edu/datasets/?search=supercom.
+* *naticus*: Data about permissions extracted from mode than 29000 benign and
+malware Android apps released between 2010 and 2019. It contains 29333 instances and
+86 feaures. URL: https://archive.ics.uci.edu/datasets/?search=naticus.
+* *dota*: Dota 2 is a popular computer game with two teams of 5 players. At the 
+start the game each player chooses a unique hero with different features; 102944 
+instances and 155 feaures. URL: https://archive.ics.uci.edu/datasets/?search=dota2games
+* *comm*: Data about communities within USA, combining socio-economics data from
+the 1990 US Census, law enforcement data from 1990 US LEMAS survey and crime
+data from 1995 FBI UCR; 1994 instances and 127 features. There are missing values
+and some variables requires discretization. URL: https://archive.ics.uci.edu/dataset/183/communities+and+crime
+* *muskv2*: data about 102 molecules classified as *musks* and *non-musks*. There
+are 6598 instances and 166 features. It requires discretization. URL: https://archive.ics.uci.edu/dataset/75/musk+version+2
+
+## 1. Convergence analysis
+
+This experiment aims to analyze whether the ELBO measure increases as the 
+algorithm progresses. It can be conducted using the script located in the 
+*R/experiment* folder, named *vsl-algorithm.R*. The script must be run using 
+*RScript* with the following parameters:
+
+* name of dataset (*alarm*, *hepar2*, *win95pts*, *supercon*, *naticus*,
+*dota*, *comm*, *muskv2*)
+* number of parent sets: experiments in the paper sets this value to 100
+* initialization method: experiments sets this value to 4 (using
+*hc* algorithm)
+* number of alternative datasets: experiments are based on using 5 different
+datasets for each case (*alarm*, *hepar2*, *win95pts*, *supercon*, *naticus*,
+*dota*, *comm*, *muskv2*). Datasets are stored in *data* folder.
+
+The script automatically generates the following files under a folder named
+*results/name* where name corresponds to the selected dataset:
+
+* file with ELBO measure for each iteration, named: *name-i.evol* (name refers
+to the corresponding dataset and i to partition number, from 1 to 5). These
+data are plotted and a *pdf* file is generated for each partition: 
+*name-i-map-iter-evol.pdf* (iter defines the number of iterations of the
+algorithm). An example for each partition is presented in Figure 1.
+
+* the data for all the iterations are aggregated into a dataframe with the 
+data  prepared for boxplots plots generation (see Figure 2). The file is
+named *vsl.csv*. These data will be merged with the results obtained from
+bnlearn algorithms as described in step 2.
+
+```{r bnlearn-algorithms, eval = FALSE}
+# example with alarm: execute from main folder of R project
+Rscript R/experiment/vsl-algorithm.R alarm 100 4 5
+```
+
+## 2. Comparison with bnlearn learning algorithms
+
+The complete list of algorithms selected are:
+
+* score based: *hc*
+* contraint based approach:
+  + *fast.iamb*
+  + *inter.iamb*
+  + *iamb.fdr*
+* skeletons learning approach:
+  + *mmpc*
+  + *si.hiton.pc*
+  + *hpc*
+* hybrid approach:
+  + *mmhc*
+  + *rsmax2*
+  + *h2px*
+* mutual information approach:
+  + *chow.liu*
+  + *aracne*
+
+The script producing these results is stored under *experiment* folder and
+named *bnlearn-algorithms.R*. This script has two arguments:
+
+* *name*: the name of the dataset to consider
+* *partitions*: number of partitions to consider for the target dataset
+
+```{r bnlearn-algorithms, eval = FALSE}
+# for alarm dataset
+Rscript R/experiment/bnlearn-algorithms alarm 5
+```
+
+The script produces a file names *bnlearn.csv* stored under *results/name* folder.
+A pdf file (*bnlearn.csv*) with the boxplots for bnlearn algorithms is also generated.
+File *bnlearn.csv* has the following format:
+
+```{r bnlearn-algorithms-results, eval = FALSE}
+hc-tr, hc-ts, fast.iamb-tr, fast.iamb-ts, ....., aracne-tr, aracne-ts
+-39993, -42767, -50804, -51376, ....., -65313, -65303
+-40114, -43349, -50311, -51732, ....., -63932, -64786
+-39829, -43408, -51661, -55085, ....., -63770, -67274
+-40623, -42133, -51701, -51380, ....., -65375, -64115
+-40156, -42731, -51205, -52812, ....., -65108, -66579
+```
+
+The graphics include in Figure 2 contains the comparison of *vsl* and *bnlearn*
+algorithms. This generation requires to gather the results stored in *vsl.csv*
+and *bnlearn.csv* files. This step is produced with a script stored at
+*experiment* folder and named *joinedResults.R*. This script is executed via
+*Rscript* and passing the name of the dataset as argument. As a result a
+file named *all-test-boxplots.pdf* is stored under results folder. The same
+script can be used for generating the boxplots for train partitions as
+well (see last commented line in the script).
